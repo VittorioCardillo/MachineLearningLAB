@@ -15,6 +15,6 @@ MSc Machine Learning experiences at the University of Padua.
 
 ## Homework 3 - NN for Classification, and Clustering
 **Notebook 3:**  Upcoming   
-**Content:** Neural Networks (NN), SVM and Clustering for image classification of a dataset of small images of clothes and accessories, the Fashion MNIST.  
+**Content:** Neural Networks (NN), SVM and Clustering for image classification of the Fashion MNIST dataset  
 **Dataset:** Fashion MNIST [[Link](https://github.com/zalandoresearch/fashion-mnist)]  
 **Grade given by the professor for the project:** Pending

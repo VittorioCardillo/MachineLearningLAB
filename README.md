@@ -12,3 +12,9 @@ MSc Machine Learning experiences at the University of Padua.
 **Content:** Support Vector Machines (SVMs) for image classification of the MNIST dataset  
 **Dataset:** MNIST [[Link](https://www.openml.org/search?type=data&sort=runs&id=554&status=active)]  
 **Grade given by the professor for the project:** 3/3
+
+## Homework 3 - NN for Classification, and Clustering
+**Notebook 3:**  Upcoming   
+**Content:** Neural Networks (NN), SVM and Clustering for image classification of a dataset of small images of clothes and accessories, the Fashion MNIST.  
+**Dataset:** Fashion MNIST [[Link](https://github.com/zalandoresearch/fashion-mnist)]  
+**Grade given by the professor for the project:** Pending

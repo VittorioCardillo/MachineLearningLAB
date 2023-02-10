@@ -14,7 +14,7 @@ MSc Machine Learning experiences at the University of Padua.
 **Grade given by the professor for the project:** 3/3
 
 ## Homework 3 - NN for Classification, and Clustering
-**Notebook 3:**  Upcoming   
+**Notebook 3:**  [NN_VittorioCardillo_2091429](https://github.com/VittorioCardillo/MachineLearningLAB/blob/main/Homework%203/NN_VittorioCardillo_2091429.ipynb)    
 **Content:** Neural Networks (NN), SVM and Clustering for image classification of the Fashion MNIST dataset  
 **Dataset:** Fashion MNIST [[Link](https://github.com/zalandoresearch/fashion-mnist)]  
 **Grade given by the professor for the project:** Pending
